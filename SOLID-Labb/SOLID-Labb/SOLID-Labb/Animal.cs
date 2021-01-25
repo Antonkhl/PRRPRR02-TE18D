@@ -6,7 +6,6 @@ namespace SOLID_Labb
 {
     public abstract class Animal
     {
-
         public string _color;
 
         public Animal(string color)

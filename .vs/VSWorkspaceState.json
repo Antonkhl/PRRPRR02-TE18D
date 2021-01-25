@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SOLID-Labb",
+    "\\SOLID-Labb\\SOLID-Labb",
+    "\\SOLID-Labb\\SOLID-Labb\\SOLID-Labb"
   ],
+  "SelectedNode": "\\SOLID-Labb\\SOLID-Labb\\SOLID-Labb.sln",
   "PreviewInSolutionExplorer": false
 }
